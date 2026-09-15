@@ -33,7 +33,7 @@ The analysis in this project is based on the **E-Commerce Sales Analysis** datas
 
 * **Dataset Author:** Fahmida
 * **Dataset Title:** E-Commerce Sales Analysis
-* **Source Link:** [https://www.kaggle.com/datasets/fahmidachowdhury/e-commerce-sales-analysis?resource=download](https://kaggle.com) 
+* **Source Link:** [https://www.kaggle.com/datasets/fahmidachowdhury/e-commerce-sales-analysis](https://kaggle.com) 
 * **License:** Attribution 4.0 International (CC BY 4.0)
 
 ### Citation

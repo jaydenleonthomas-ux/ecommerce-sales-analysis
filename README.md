@@ -26,3 +26,15 @@ The goal of this project was to analyze e-commerce product data using Python to 
 ## Project Structure
 * `E_Commerce_Sales.ipynb` / Core Jupyter Notebook executing data loading, cleaning (`.isnull()`), descriptive statistics (`.describe()`), grouping calculations (`.groupby()`), and final figure renderings.
 * `README.md` / Project documentation and business executive summary layout.
+
+## Data Source
+
+The analysis in this project is based on the **E-Commerce Sales Analysis** dataset published on Kaggle.
+
+* **Dataset Author:** Fahmida
+* **Dataset Title:** E-Commerce Sales Analysis
+* **Source Link:** [https://www.kaggle.com/datasets/fahmidachowdhury/e-commerce-sales-analysis?resource=download](https://kaggle.com) 
+* **License:** Attribution 4.0 International (CC BY 4.0)
+
+### Citation
+> fahmidachowdhury, Fahmida. "E-Commerce Sales Analysis: Analyze Product Performance and Customer Preferences in the E-Commerce Market." Kaggle. https://kaggle.com

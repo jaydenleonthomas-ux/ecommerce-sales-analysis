@@ -31,10 +31,11 @@ The goal of this project was to analyze e-commerce product data using Python to 
 
 The analysis in this project is based on the **E-Commerce Sales Analysis** dataset published on Kaggle.
 
-* **Dataset Author:** Fahmida
+* **Dataset Author:** Fahmida Chowdhury
 * **Dataset Title:** E-Commerce Sales Analysis
-* **Source Link:** [https://www.kaggle.com/datasets/fahmidachowdhury/e-commerce-sales-analysis](https://kaggle.com) 
+* **Source Link:** [Kaggle Dataset URL](https://www.kaggle.com/datasets/fahmidachowdhury/e-commerce-sales-analysis)
 * **License:** Attribution 4.0 International (CC BY 4.0)
 
 ### Citation
-> fahmidachowdhury, Fahmida. "E-Commerce Sales Analysis: Analyze Product Performance and Customer Preferences in the E-Commerce Market." Kaggle. https://kaggle.com
+> Chowdhury, F. "E-Commerce Sales Analysis: Analyze Product Performance and Customer Preferences in the E-Commerce Market." Kaggle. [https://www.kaggle.com/datasets/fahmidachowdhury/e-commerce-sales-analysis](https://www.kaggle.com/datasets/fahmidachowdhury/e-commerce-sales-analysis)
+
